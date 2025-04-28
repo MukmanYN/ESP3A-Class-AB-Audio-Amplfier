@@ -4,7 +4,7 @@ This project documents my full reverse engineering, simulation, validation, and 
 
 As part of my goal become an electrical hardware engineer, I studied the internal behavior and purpose of each stage (input differential, current mirror, VAS, bias, output, and feedback), reproduced the schematic in LTSpice, tuned biasing parameters, and ultimately implemented the circuit on both breadboard (±10V rails) and a custom 2-layer PCB designed in KiCad.
 
-✨ Key Highlights:
+Key Highlights:
 Reverse engineered ESP P3a from schematics and functional descriptions
 
 Simulated quiescent current, FFT/THD, slew rate, and stability (Bode plot)
